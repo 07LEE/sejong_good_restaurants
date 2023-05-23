@@ -1,3 +1,4 @@
+#%%
 import pandas as pd
 import numpy as np
 import os, re
@@ -5,8 +6,8 @@ import category_kakao as kakao
 import prepro_data as ppdata
 
 API_KEY = kakao.get_API()
-
-file = 'data\\2023_03.xlsx'
+fname = input('Enter the name of the file : ')
+file = f'data\\{fname}.xlsx'
 df = pd.read_excel(file, sheet_name=None)
 
 df = ppdata.preprocess_excel_files('prepro_data')
@@ -39,5 +40,5 @@ df['people'] = df['people'].astype(int)
 if not os.path.exists('output_data'):
     os.makedirs('output_data')
 
-df.to_csv('output_data\\data.csv', encoding='UTF-8')
-df.to_json('output_data\\data.json', orient='records', indent=4, force_ascii=False)
+df.to_csv(f'output_data\\{fname}.csv', encoding='UTF-8')
+df.to_json(f'output_data\\{fname}.json', orient='records', indent=4, force_ascii=False)
