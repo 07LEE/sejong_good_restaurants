@@ -58,3 +58,13 @@ def drop_null(df):
   for i in df.columns:
     df = df[df[i].notnull()]
   return df
+
+
+def clean_df(df):
+  df['name'] = df['name'].replace('-', '')
+  df['people'] = df['people'].replace('다수', '').replace('-', '')
+  df = df[df['name'] != '']
+  df = df[df['people'] != '']
+  df['people'] = df['people'].astype(int)
+
+  return df
