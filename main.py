@@ -4,7 +4,6 @@ import numpy as np
 import category_kakao as kakao
 import prepro_data as ppdata
 
-
 def main():
 
     # Get the API key.
@@ -18,11 +17,12 @@ def main():
     df = pd.read_excel(file, sheet_name=None)
 
     # Preprocess the data.
+    ppdata.decompose_excel(df, 'prepro_data')
     df = ppdata.preprocess_excel_files('prepro_data')
     df = ppdata.reset_and_drop_index(df)
     df = ppdata.rename_and_reindex_columns(df)
 
-    remove_list = ['조치원점', '조치원지점', '대평점', '전의점', '세종점', '보람점', '본점', '반곡점', '새롬점', '시청점', '시청스카이점', '나성점', '신흥점', '(주)', '(세종)', ' 세종', '(LeBeef)', '(stay)', r'\(\)', '㈜신화케이푸드', ' ', '외1건','외1개소', '외1']
+    remove_list = ['조치원점', '조치원지점', '대평점', '전의점', '세종점', '보람점', '본점', '반곡점', '새롬점', '시청점', '시청스카이점', '나성점', '신흥점', '(주)', '(세종)', ' 세종', '(LeBeef)', '(stay)', '㈜신화케이푸드', ' ', '외1건','외1개소', '외1', '충남공주시', '()']
 
     for i in remove_list:
         ppdata.re_rename(df, 'name', i, '')
@@ -39,8 +39,11 @@ def main():
         kakao.get_category(df, API_KEY)
     except:
         print('can not get category. check API')
-
-    df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
+    
+    try:
+        df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
+    except:
+        print('date value error')
 
     # Save the data.
     if not os.path.exists('output_data'):
