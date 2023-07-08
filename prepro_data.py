@@ -45,6 +45,7 @@ def re_rename(df, a, word, rename):
 def drop_cost_comma(df):
   df['cost'] = df['cost'].astype(str)
   df['cost'] = df['cost'].str.replace(',', '').str.replace('[^0-9]', '', regex=False)
+  df['cost'] = df['cost'].astype(float)
   df['cost'] = df['cost'].astype(int)
 
 

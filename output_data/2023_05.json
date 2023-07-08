@@ -1,0 +1,5386 @@
+[
+    {
+        "department":"감사위원회",
+        "name":"풍미정원",
+        "cost":100000,
+        "people":10,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감사위원회",
+        "name":"행복무지개",
+        "cost":148000,
+        "people":5,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감사위원회",
+        "name":"사키",
+        "cost":72000,
+        "people":4,
+        "date":1683763200000,
+        "category":" 일식"
+    },
+    {
+        "department":"감사위원회",
+        "name":"풍미정원",
+        "cost":91000,
+        "people":9,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감사위원회",
+        "name":"엠티추억그리고여행",
+        "cost":284000,
+        "people":12,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"감사위원회",
+        "name":"석교리",
+        "cost":102000,
+        "people":6,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감염병관리과",
+        "name":"보강집",
+        "cost":34000,
+        "people":4,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감염병관리과",
+        "name":"짬뽕관",
+        "cost":56000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"감염병관리과",
+        "name":"미미삼겹살",
+        "cost":78000,
+        "people":5,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감염병관리과",
+        "name":"워낭2013",
+        "cost":69000,
+        "people":3,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"감염병관리과",
+        "name":"함흥면옥",
+        "cost":94600,
+        "people":7,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"협동조합담음",
+        "cost":90000,
+        "people":9,
+        "date":1682899200000,
+        "category":" 도시락"
+    },
+    {
+        "department":"건설교통국",
+        "name":"세종장어대가",
+        "cost":123000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"돈미당숯불구이",
+        "cost":84000,
+        "people":4,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"건설교통국",
+        "name":"주식회사헬로우포레스트",
+        "cost":81500,
+        "people":6,
+        "date":1683504000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"주식회사헬로우포레스트",
+        "cost":58000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"바다축제",
+        "cost":97000,
+        "people":4,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"건설교통국",
+        "name":"파랑나루",
+        "cost":106000,
+        "people":8,
+        "date":1684108800000,
+        "category":" 술집 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"주식회사헬로우포레스트",
+        "cost":59000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"초원갈비",
+        "cost":100000,
+        "people":6,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"청와삼대",
+        "cost":183000,
+        "people":9,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"유쾌한상",
+        "cost":122100,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"유성복집",
+        "cost":78000,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"BHC",
+        "cost":84000,
+        "people":6,
+        "date":1685404800000,
+        "category":" 치킨 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"엄마쌈밥집",
+        "cost":64500,
+        "people":5,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건설교통국",
+        "name":"주식회사헬로우포레스트",
+        "cost":71500,
+        "people":6,
+        "date":1685491200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"건축과",
+        "name":"사랑채",
+        "cost":157000,
+        "people":7,
+        "date":1683763200000,
+        "category":" 한식"
+    },
+    {
+        "department":"건축과",
+        "name":"원조부산할매낙지&활화산",
+        "cost":51000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"건축과",
+        "name":"예원",
+        "cost":194000,
+        "people":10,
+        "date":1685404800000,
+        "category":" 중식 "
+    },
+    {
+        "department":"경제산업국",
+        "name":"윤연당",
+        "cost":36000,
+        "people":4,
+        "date":1683504000000,
+        "category":" 간식 "
+    },
+    {
+        "department":"경제산업국",
+        "name":"풍미정원",
+        "cost":144000,
+        "people":6,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"경제산업국",
+        "name":"설레족발",
+        "cost":140000,
+        "people":16,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"경제산업국",
+        "name":"호야2",
+        "cost":119000,
+        "people":4,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"경제정책과",
+        "name":"다이닝더인드라",
+        "cost":50000,
+        "people":3,
+        "date":1683072000000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"경제정책과",
+        "name":"금강장어마을",
+        "cost":46000,
+        "people":3,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"경제정책과",
+        "name":"밥상차려주는집",
+        "cost":162000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 한식"
+    },
+    {
+        "department":"경제정책과",
+        "name":"쿠프",
+        "cost":21000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"경제정책과",
+        "name":"금강장어마을",
+        "cost":46000,
+        "people":3,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"경제정책과",
+        "name":"궁궐",
+        "cost":30000,
+        "people":2,
+        "date":1684454400000,
+        "category":" 한식"
+    },
+    {
+        "department":"고운동",
+        "name":"고운동커피가게",
+        "cost":77500,
+        "people":6,
+        "date":1682985600000,
+        "category":" 카페 "
+    },
+    {
+        "department":"고운동",
+        "name":"청학동냉면",
+        "cost":69500,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"고운동",
+        "name":"조가네갑오징어",
+        "cost":68000,
+        "people":6,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"고운동",
+        "name":"착한감자탕",
+        "cost":202500,
+        "people":10,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공공건설사업소",
+        "name":"원조한도령本家추어탕",
+        "cost":65000,
+        "people":4,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"공공건설사업소",
+        "name":"착한횟집",
+        "cost":181000,
+        "people":10,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공공건설사업소",
+        "name":"시장감자탕",
+        "cost":42000,
+        "people":5,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"찌개명문가후룹",
+        "cost":36000,
+        "people":4,
+        "date":1682899200000,
+        "category":"미분류"
+    },
+    {
+        "department":"공보관",
+        "name":"내토왕코다리",
+        "cost":122000,
+        "people":7,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"오롯이",
+        "cost":78000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 일식"
+    },
+    {
+        "department":"공보관",
+        "name":"명장복집",
+        "cost":110000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"함흥면옥",
+        "cost":98000,
+        "people":7,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"윤복희",
+        "cost":50000,
+        "people":5,
+        "date":1683158400000,
+        "category":" 한식"
+    },
+    {
+        "department":"공보관",
+        "name":"명품한우타운",
+        "cost":200000,
+        "people":7,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"조개언니회오빠",
+        "cost":150000,
+        "people":8,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"층남순대",
+        "cost":37000,
+        "people":3,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"공보관",
+        "name":"삼미가옥",
+        "cost":71000,
+        "people":5,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"공보관",
+        "name":"콩밭가인",
+        "cost":54000,
+        "people":5,
+        "date":1684108800000,
+        "category":" 한식"
+    },
+    {
+        "department":"공보관",
+        "name":"콩밭가인",
+        "cost":50000,
+        "people":5,
+        "date":1684281600000,
+        "category":" 한식"
+    },
+    {
+        "department":"공보관",
+        "name":"탄영",
+        "cost":200000,
+        "people":6,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"차득순손칼국수",
+        "cost":99000,
+        "people":7,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"콩밭가인",
+        "cost":141000,
+        "people":12,
+        "date":1684713600000,
+        "category":" 한식"
+    },
+    {
+        "department":"공보관",
+        "name":"르비프(LeBeef)",
+        "cost":150000,
+        "people":5,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"공보관",
+        "name":"그릴200℃",
+        "cost":139000,
+        "people":5,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"공보관",
+        "name":"육류백화점식당",
+        "cost":158000,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"짬뽕관",
+        "cost":60000,
+        "people":5,
+        "date":1685059200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"공보관",
+        "name":"내토왕코다리",
+        "cost":36000,
+        "people":2,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"또바기검은콩수제비.칼국수",
+        "cost":23000,
+        "people":3,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공보관",
+        "name":"덕포상회",
+        "cost":155000,
+        "people":6,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"려원민물장어",
+        "cost":197000,
+        "people":8,
+        "date":1682899200000,
+        "category":" 한식"
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"다담스시다이닝",
+        "cost":53000,
+        "people":4,
+        "date":1683072000000,
+        "category":" 일식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"명성횟집",
+        "cost":54000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"카페리",
+        "cost":19400,
+        "people":4,
+        "date":1683676800000,
+        "category":" 카페"
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"동네맥주",
+        "cost":125500,
+        "people":6,
+        "date":1683763200000,
+        "category":" 술집 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"전주명가",
+        "cost":29000,
+        "people":3,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"세종국수",
+        "cost":25000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"나성횟집",
+        "cost":75000,
+        "people":4,
+        "date":1684713600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"카페리",
+        "cost":21000,
+        "people":5,
+        "date":1684713600000,
+        "category":" 카페"
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"라스트춘선",
+        "cost":88000,
+        "people":6,
+        "date":1684800000000,
+        "category":" 술집 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"어진명가",
+        "cost":106500,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식"
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"믹스토랑",
+        "cost":79200,
+        "people":6,
+        "date":1684972800000,
+        "category":" 양식"
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"차이킹",
+        "cost":104000,
+        "people":7,
+        "date":1685404800000,
+        "category":" 중식 "
+    },
+    {
+        "department":"공원관리사업소",
+        "name":"군산조개천국",
+        "cost":167000,
+        "people":6,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"관광진흥과",
+        "name":"궁궐",
+        "cost":120000,
+        "people":8,
+        "date":1683676800000,
+        "category":" 한식"
+    },
+    {
+        "department":"관광진흥과",
+        "name":"밀마루보리밥",
+        "cost":48000,
+        "people":4,
+        "date":1684972800000,
+        "category":" 한식"
+    },
+    {
+        "department":"교육지원과",
+        "name":"순남시래기",
+        "cost":88000,
+        "people":8,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"교육지원과",
+        "name":"명성횟집생대구탕",
+        "cost":45000,
+        "people":3,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"교통과",
+        "name":"세종메밀꽃필무렵",
+        "cost":105000,
+        "people":7,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"교통과",
+        "name":"우리네코다리",
+        "cost":89700,
+        "people":7,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"교통과",
+        "name":"엉클생고기",
+        "cost":202500,
+        "people":15,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"교통과",
+        "name":"동방생고기정육점식당",
+        "cost":48000,
+        "people":8,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"물고기주택(서울)",
+        "cost":188000,
+        "people":8,
+        "date":1683590400000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"타코벨여의도메리츠점(서울)",
+        "cost":157500,
+        "people":25,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"㈜행복큐산업(인터넷)",
+        "cost":196700,
+        "people":100,
+        "date":1684281600000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"다원",
+        "cost":198000,
+        "people":7,
+        "date":1684368000000,
+        "category":" 주거시설 "
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"장수집(서울)",
+        "cost":132000,
+        "people":6,
+        "date":1684368000000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"민식당(서울)",
+        "cost":90000,
+        "people":4,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"신의주순대",
+        "cost":196700,
+        "people":7,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"참복집(서울)",
+        "cost":165000,
+        "people":6,
+        "date":1685404800000,
+        "category":"미분류"
+    },
+    {
+        "department":"국회건립지원사무소",
+        "name":"쿠팡(인터넷)",
+        "cost":98770,
+        "people":100,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"규제개혁법무담당관",
+        "name":"르비프(LeBeef)",
+        "cost":132000,
+        "people":5,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"규제개혁법무담당관",
+        "name":"비프다이닝온도",
+        "cost":108000,
+        "people":3,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"규제개혁법무담당관",
+        "name":"청담이상도담점",
+        "cost":137000,
+        "people":5,
+        "date":1684368000000,
+        "category":" 술집 "
+    },
+    {
+        "department":"금남면",
+        "name":"등심연구소",
+        "cost":34000,
+        "people":4,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"금남면",
+        "name":"공주칼국수쭈꾸미구이",
+        "cost":30000,
+        "people":3,
+        "date":1683244800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"금남면",
+        "name":"만주순대집",
+        "cost":126000,
+        "people":8,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"금남면",
+        "name":"천안문",
+        "cost":235000,
+        "people":14,
+        "date":1684713600000,
+        "category":" 중식 "
+    },
+    {
+        "department":"금남면",
+        "name":"신나라마트",
+        "cost":245500,
+        "people":8,
+        "date":1684886400000,
+        "category":" 슈퍼마켓"
+    },
+    {
+        "department":"금남면",
+        "name":"백씨네가게",
+        "cost":28500,
+        "people":7,
+        "date":1685404800000,
+        "category":" 카페"
+    },
+    {
+        "department":"기업지원과",
+        "name":"텐퍼센트",
+        "cost":75000,
+        "people":18,
+        "date":1683158400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"기업지원과",
+        "name":"소담",
+        "cost":120000,
+        "people":6,
+        "date":1683504000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"기업지원과",
+        "name":"소담",
+        "cost":120000,
+        "people":6,
+        "date":1684368000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"샤브마니아",
+        "cost":64500,
+        "people":5,
+        "date":1682899200000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"쉬즈베이글",
+        "cost":288900,
+        "people":26,
+        "date":1682899200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"다이닝더인드라",
+        "cost":88000,
+        "people":4,
+        "date":1682985600000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"진짜우리집",
+        "cost":400000,
+        "people":16,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"기획조정실",
+        "name":"경주집",
+        "cost":90000,
+        "people":4,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"고상한식탁",
+        "cost":85000,
+        "people":4,
+        "date":1683590400000,
+        "category":" 양식"
+    },
+    {
+        "department":"기획조정실",
+        "name":"샤브마니아",
+        "cost":160000,
+        "people":6,
+        "date":1683676800000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"피자샵",
+        "cost":163700,
+        "people":16,
+        "date":1684108800000,
+        "category":" 양식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"일번가복집",
+        "cost":156000,
+        "people":6,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"일번가복집",
+        "cost":182000,
+        "people":8,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"고반식당도담점",
+        "cost":168000,
+        "people":6,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"이응갈비",
+        "cost":45000,
+        "people":4,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"기획조정실",
+        "name":"주식회사명품한우",
+        "cost":177000,
+        "people":6,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"미트볼스테이션",
+        "cost":132200,
+        "people":11,
+        "date":1685059200000,
+        "category":" 양식"
+    },
+    {
+        "department":"기획조정실",
+        "name":"함흥면옥",
+        "cost":54000,
+        "people":4,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"기획조정실",
+        "name":"오월의토끼과자점",
+        "cost":150000,
+        "people":20,
+        "date":1685491200000,
+        "category":" 간식 "
+    },
+    {
+        "department":"나성동",
+        "name":"베리베리푸르츠",
+        "cost":225000,
+        "people":13,
+        "date":1682899200000,
+        "category":"미분류"
+    },
+    {
+        "department":"나성동",
+        "name":"로즈애플",
+        "cost":150000,
+        "people":25,
+        "date":1683072000000,
+        "category":" 식품판매 "
+    },
+    {
+        "department":"나성동",
+        "name":"눈꽃대패",
+        "cost":118200,
+        "people":9,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"나성동",
+        "name":"벌크커피",
+        "cost":36000,
+        "people":12,
+        "date":1683590400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"나성동",
+        "name":"벌크커피",
+        "cost":26000,
+        "people":13,
+        "date":1684022400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"나성동",
+        "name":"세종리더스포레파리바게트",
+        "cost":23000,
+        "people":10,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"노인장애인과",
+        "name":"남도밥집",
+        "cost":74000,
+        "people":7,
+        "date":1683158400000,
+        "category":" 한식"
+    },
+    {
+        "department":"노인장애인과",
+        "name":"우리숯불닭갈비",
+        "cost":124000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업기술센터",
+        "name":"샤브마니아",
+        "cost":144000,
+        "people":5,
+        "date":1682985600000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"농업기술센터",
+        "name":"청와옥양재직영점",
+        "cost":128300,
+        "people":6,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"농업기술센터",
+        "name":"카페나무와실",
+        "cost":42000,
+        "people":3,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"농업기술센터",
+        "name":"카페일마지오안내동점",
+        "cost":27300,
+        "people":3,
+        "date":1684713600000,
+        "category":"미분류"
+    },
+    {
+        "department":"농업기술센터",
+        "name":"한식대첩이우철누룽지삼계탕",
+        "cost":102000,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업기술센터",
+        "name":"목구멍",
+        "cost":240000,
+        "people":8,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업정책과",
+        "name":"족발야시장",
+        "cost":121000,
+        "people":5,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업정책과",
+        "name":"윤가네들깨수제비보쌈",
+        "cost":116000,
+        "people":4,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업정책과",
+        "name":"내토왕코다리",
+        "cost":104000,
+        "people":8,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업정책과",
+        "name":"세종한우청사점",
+        "cost":192000,
+        "people":7,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"농업정책과",
+        "name":"재너머",
+        "cost":291000,
+        "people":10,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"다정동",
+        "name":"은용골농장가든",
+        "cost":133000,
+        "people":5,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"다정동",
+        "name":"자장자장",
+        "cost":33000,
+        "people":3,
+        "date":1683590400000,
+        "category":" 중식 "
+    },
+    {
+        "department":"다정동",
+        "name":"코다리밥상",
+        "cost":136000,
+        "people":6,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"다정동",
+        "name":"더육공소",
+        "cost":108900,
+        "people":11,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"다정동",
+        "name":"커스텀커피",
+        "cost":25500,
+        "people":6,
+        "date":1683763200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"다정동",
+        "name":"송하민어구이",
+        "cost":116000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"다정동",
+        "name":"직원",
+        "cost":50000,
+        "people":1,
+        "date":1684713600000,
+        "category":" 교통시설 "
+    },
+    {
+        "department":"다정동",
+        "name":"다정가배",
+        "cost":116800,
+        "people":7,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"다정동",
+        "name":"리차이",
+        "cost":74000,
+        "people":5,
+        "date":1685059200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"탄영",
+        "cost":224750,
+        "people":8,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"꿈앤카페",
+        "cost":70000,
+        "people":20,
+        "date":1683504000000,
+        "category":" 카페"
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"오롯이",
+        "cost":368000,
+        "people":20,
+        "date":1683590400000,
+        "category":" 일식"
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"아비꼬",
+        "cost":57100,
+        "people":5,
+        "date":1684281600000,
+        "category":" 퓨전요리 "
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"북촌",
+        "cost":129000,
+        "people":9,
+        "date":1684281600000,
+        "category":" 분식 "
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"순심이흑염소",
+        "cost":170000,
+        "people":7,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"식물원카페",
+        "cost":367200,
+        "people":16,
+        "date":1684886400000,
+        "category":" 카페"
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"이응갈비",
+        "cost":240000,
+        "people":17,
+        "date":1684972800000,
+        "category":"미분류"
+    },
+    {
+        "department":"대외협력담당관",
+        "name":"이응갈비",
+        "cost":75000,
+        "people":5,
+        "date":1685404800000,
+        "category":"미분류"
+    },
+    {
+        "department":"대평동",
+        "name":"황제명태본가",
+        "cost":74100,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"대평동",
+        "name":"짜사이",
+        "cost":363000,
+        "people":25,
+        "date":1684886400000,
+        "category":" 중식 "
+    },
+    {
+        "department":"도담동",
+        "name":"남도대박식당",
+        "cost":120000,
+        "people":10,
+        "date":1682985600000,
+        "category":" 한식"
+    },
+    {
+        "department":"도담동",
+        "name":"바른초밥세종",
+        "cost":147200,
+        "people":10,
+        "date":1683072000000,
+        "category":" 일식 "
+    },
+    {
+        "department":"도담동",
+        "name":"도담카페",
+        "cost":28100,
+        "people":6,
+        "date":1683072000000,
+        "category":" 카페"
+    },
+    {
+        "department":"도담동",
+        "name":"고기명작",
+        "cost":89000,
+        "people":8,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도담동",
+        "name":"행복한정육점",
+        "cost":49800,
+        "people":6,
+        "date":1683849600000,
+        "category":" 식품판매 "
+    },
+    {
+        "department":"도담동",
+        "name":"진성아구찜도담점",
+        "cost":151500,
+        "people":10,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도담동",
+        "name":"곤지암소머리한우국밥",
+        "cost":112000,
+        "people":12,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도로과",
+        "name":"고무래식당",
+        "cost":96000,
+        "people":5,
+        "date":1683158400000,
+        "category":" 한식"
+    },
+    {
+        "department":"도로과",
+        "name":"세종장어대가",
+        "cost":253000,
+        "people":9,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도로과",
+        "name":"신화케이푸드",
+        "cost":283000,
+        "people":10,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"도로과",
+        "name":"고무래식당",
+        "cost":72000,
+        "people":5,
+        "date":1683849600000,
+        "category":" 한식"
+    },
+    {
+        "department":"도로과",
+        "name":"카페플랜",
+        "cost":78000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 전문대행 "
+    },
+    {
+        "department":"도로과",
+        "name":"식원",
+        "cost":171000,
+        "people":10,
+        "date":1684368000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"도로과",
+        "name":"쓰촨",
+        "cost":65000,
+        "people":5,
+        "date":1684454400000,
+        "category":" 중식 "
+    },
+    {
+        "department":"도로관리사업소",
+        "name":"행복무지개",
+        "cost":65000,
+        "people":4,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도로관리사업소",
+        "name":"퐁당",
+        "cost":79200,
+        "people":5,
+        "date":1683590400000,
+        "category":" 샤브샤브"
+    },
+    {
+        "department":"도로관리사업소",
+        "name":"부뚜막",
+        "cost":67000,
+        "people":4,
+        "date":1683676800000,
+        "category":" 한식"
+    },
+    {
+        "department":"도로관리사업소",
+        "name":"백련화메기탕",
+        "cost":69000,
+        "people":5,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도로관리사업소",
+        "name":"신흥파닭",
+        "cost":51000,
+        "people":16,
+        "date":1684886400000,
+        "category":" 치킨"
+    },
+    {
+        "department":"도시과",
+        "name":"우리네코다리",
+        "cost":80000,
+        "people":8,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도시과",
+        "name":"우리네코다리",
+        "cost":110000,
+        "people":11,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도시과",
+        "name":"커피꼴랑",
+        "cost":25500,
+        "people":6,
+        "date":1683158400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"도시과",
+        "name":"스시대가",
+        "cost":106200,
+        "people":6,
+        "date":1683590400000,
+        "category":"미분류"
+    },
+    {
+        "department":"도시과",
+        "name":"두두본",
+        "cost":59300,
+        "people":16,
+        "date":1683676800000,
+        "category":" 카페 "
+    },
+    {
+        "department":"도시과",
+        "name":"주식회사헬로우포레스트",
+        "cost":91000,
+        "people":6,
+        "date":1683849600000,
+        "category":" 카페 "
+    },
+    {
+        "department":"도시과",
+        "name":"유성복집",
+        "cost":104000,
+        "people":6,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도시과",
+        "name":"염소한마리",
+        "cost":91500,
+        "people":6,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"도시과",
+        "name":"마빅치킨",
+        "cost":86800,
+        "people":6,
+        "date":1685491200000,
+        "category":" 치킨"
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"라포레스타",
+        "cost":108800,
+        "people":6,
+        "date":1682899200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"만세곱창",
+        "cost":212000,
+        "people":8,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"본가왕뼈감자탕법원점",
+        "cost":248000,
+        "people":25,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"구양가",
+        "cost":139000,
+        "people":6,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"다정한감자탕&뼈찜",
+        "cost":54000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"본죽&비빔밥",
+        "cost":61500,
+        "people":6,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"추추추어탕조치원홍대점",
+        "cost":64000,
+        "people":5,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"돈미당숯불구이",
+        "cost":93000,
+        "people":4,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"양평칼국수",
+        "cost":51000,
+        "people":4,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"일소일소감자탕",
+        "cost":78000,
+        "people":6,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"동물위생방역과",
+        "name":"윤가네들깨수제비보쌈",
+        "cost":71000,
+        "people":5,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"로컬푸드과",
+        "name":"고복정",
+        "cost":59000,
+        "people":4,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"로컬푸드과",
+        "name":"세종일식",
+        "cost":200000,
+        "people":9,
+        "date":1684368000000,
+        "category":" 일식"
+    },
+    {
+        "department":"로컬푸드과",
+        "name":"윤가네들깨수제비",
+        "cost":124000,
+        "people":8,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"굴천지초계국수",
+        "cost":59000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"금강추어탕",
+        "cost":58000,
+        "people":5,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"돔베초밥",
+        "cost":35700,
+        "people":3,
+        "date":1683849600000,
+        "category":" 일식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"명성횟집",
+        "cost":115000,
+        "people":6,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"이화수전통육개장",
+        "cost":44000,
+        "people":3,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화예술과",
+        "name":"조선초밥",
+        "cost":96000,
+        "people":6,
+        "date":1685404800000,
+        "category":" 일식 "
+    },
+    {
+        "department":"문화유산과",
+        "name":"수미가찌개전문점",
+        "cost":72000,
+        "people":6,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화유산과",
+        "name":"해뜨는집",
+        "cost":87000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식"
+    },
+    {
+        "department":"문화유산과",
+        "name":"상춘고택㈜",
+        "cost":270000,
+        "people":9,
+        "date":1684368000000,
+        "category":" 숙박 "
+    },
+    {
+        "department":"문화유산과",
+        "name":"투툼",
+        "cost":30000,
+        "people":3,
+        "date":1684713600000,
+        "category":"미분류"
+    },
+    {
+        "department":"문화유산과",
+        "name":"낙지촌",
+        "cost":77400,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화유산과",
+        "name":"송월토속촌",
+        "cost":43000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식"
+    },
+    {
+        "department":"문화유산과",
+        "name":"복누룽지삼계탕",
+        "cost":60000,
+        "people":4,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화체육관광국",
+        "name":"체육진흥과",
+        "cost":50000,
+        "people":1,
+        "date":1651449600000,
+        "category":"미분류"
+    },
+    {
+        "department":"문화체육관광국",
+        "name":"중화반점",
+        "cost":225000,
+        "people":10,
+        "date":1682985600000,
+        "category":" 중식 "
+    },
+    {
+        "department":"문화체육관광국",
+        "name":"세종장어대가",
+        "cost":170000,
+        "people":8,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"문화체육관광국",
+        "name":"고스란",
+        "cost":31200,
+        "people":6,
+        "date":1684800000000,
+        "category":" 한식"
+    },
+    {
+        "department":"문화체육관광국",
+        "name":"문화예술과",
+        "cost":50000,
+        "people":1,
+        "date":1685059200000,
+        "category":" 문화시설 "
+    },
+    {
+        "department":"물관리정책과",
+        "name":"일소일소감자탕",
+        "cost":66000,
+        "people":6,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"물관리정책과",
+        "name":"관내",
+        "cost":30000,
+        "people":10,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"물관리정책과",
+        "name":"황우제매운탕",
+        "cost":300000,
+        "people":16,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"미래수도기반조성과",
+        "name":"짬뽕관",
+        "cost":36500,
+        "people":3,
+        "date":1683158400000,
+        "category":" 중식 "
+    },
+    {
+        "department":"미래수도기반조성과",
+        "name":"함흥면옥",
+        "cost":56000,
+        "people":4,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"미래수도기반조성과",
+        "name":"돈가스1980",
+        "cost":32700,
+        "people":3,
+        "date":1685404800000,
+        "category":" 일식 "
+    },
+    {
+        "department":"미래수도기반조성과",
+        "name":"후룹",
+        "cost":60000,
+        "people":5,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"밀마루",
+        "cost":55000,
+        "people":5,
+        "date":1682899200000,
+        "category":" 관광,명소 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"조치원1927아트센터",
+        "cost":334500,
+        "people":13,
+        "date":1682985600000,
+        "category":" 문화시설"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"양촌식당",
+        "cost":54000,
+        "people":4,
+        "date":1683158400000,
+        "category":" 기사식당"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"본도시락",
+        "cost":69600,
+        "people":6,
+        "date":1683676800000,
+        "category":" 도시락 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"세종복칼국수",
+        "cost":46000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"국회후생복지위원회",
+        "cost":20600,
+        "people":5,
+        "date":1684195200000,
+        "category":"미분류"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"폴바셋",
+        "cost":32900,
+        "people":3,
+        "date":1684195200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"궁궐",
+        "cost":90000,
+        "people":6,
+        "date":1684281600000,
+        "category":" 한식"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"피제리아지알로",
+        "cost":93800,
+        "people":5,
+        "date":1684800000000,
+        "category":" 양식 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"대평리맛있는집",
+        "cost":83000,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"강촌",
+        "cost":120000,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"미래전략본부",
+        "name":"세종화백곰탕&냉면",
+        "cost":88000,
+        "people":6,
+        "date":1685059200000,
+        "category":" 한식"
+    },
+    {
+        "department":"미래전략본부",
+        "name":"순남시래기",
+        "cost":82000,
+        "people":7,
+        "date":1685491200000,
+        "category":" 한식"
+    },
+    {
+        "department":"민원과",
+        "name":"소나무향기",
+        "cost":79000,
+        "people":4,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"민원과",
+        "name":"주식회사이도카페",
+        "cost":23100,
+        "people":4,
+        "date":1685059200000,
+        "category":" 카페"
+    },
+    {
+        "department":"반곡동",
+        "name":"윤복희",
+        "cost":211500,
+        "people":8,
+        "date":1682899200000,
+        "category":" 한식"
+    },
+    {
+        "department":"반곡동",
+        "name":"예향본가",
+        "cost":235900,
+        "people":15,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"반곡동",
+        "name":"예향본가",
+        "cost":150000,
+        "people":15,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"반곡동",
+        "name":"빽다방",
+        "cost":90000,
+        "people":30,
+        "date":1684108800000,
+        "category":" 카페 "
+    },
+    {
+        "department":"반곡동",
+        "name":"진주냉면이설옥",
+        "cost":153000,
+        "people":11,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"반곡동",
+        "name":"웰미가",
+        "cost":44000,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"반곡동",
+        "name":"대패의품격",
+        "cost":242300,
+        "people":14,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건복지국",
+        "name":"초가집갈비김치찌개",
+        "cost":36000,
+        "people":3,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건복지국",
+        "name":"꿀꿀",
+        "cost":90000,
+        "people":3,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"보건복지국",
+        "name":"아라준스시",
+        "cost":252000,
+        "people":9,
+        "date":1683590400000,
+        "category":" 일식 "
+    },
+    {
+        "department":"보건복지국",
+        "name":"한마음정육식당",
+        "cost":228000,
+        "people":8,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건복지국",
+        "name":"금강식당",
+        "cost":64000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 한식"
+    },
+    {
+        "department":"보건복지국",
+        "name":"동해",
+        "cost":113000,
+        "people":7,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건복지국",
+        "name":"박중사의힘내부대찌개",
+        "cost":157500,
+        "people":6,
+        "date":1684972800000,
+        "category":"미분류"
+    },
+    {
+        "department":"보건소",
+        "name":"세종특별자치시보건소",
+        "cost":100000,
+        "people":2,
+        "date":1682985600000,
+        "category":" 보건소"
+    },
+    {
+        "department":"보건소",
+        "name":"세종화백곰탕&냉면새롬",
+        "cost":56000,
+        "people":3,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"보건소",
+        "name":"로흐뚜",
+        "cost":32900,
+        "people":4,
+        "date":1683504000000,
+        "category":" 카페"
+    },
+    {
+        "department":"보건소",
+        "name":"카페소풍",
+        "cost":20500,
+        "people":3,
+        "date":1683676800000,
+        "category":" 카페"
+    },
+    {
+        "department":"보건소",
+        "name":"커피마마퀸",
+        "cost":14900,
+        "people":5,
+        "date":1683763200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보건소",
+        "name":"르비엣",
+        "cost":31000,
+        "people":3,
+        "date":1683849600000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"보건소",
+        "name":"세종특별자치시보건소",
+        "cost":50000,
+        "people":1,
+        "date":1684195200000,
+        "category":" 보건소"
+    },
+    {
+        "department":"보건소",
+        "name":"조선초밥",
+        "cost":28000,
+        "people":2,
+        "date":1684195200000,
+        "category":" 일식 "
+    },
+    {
+        "department":"보건소",
+        "name":"커피마마퀸",
+        "cost":18400,
+        "people":4,
+        "date":1684713600000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보건소",
+        "name":"카페소풍",
+        "cost":16500,
+        "people":4,
+        "date":1684800000000,
+        "category":" 카페"
+    },
+    {
+        "department":"보건소",
+        "name":"복호두",
+        "cost":18000,
+        "people":3,
+        "date":1684886400000,
+        "category":" 간식 "
+    },
+    {
+        "department":"보건소",
+        "name":"새롬카페",
+        "cost":22500,
+        "people":4,
+        "date":1685059200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보건소",
+        "name":"샤오원",
+        "cost":79500,
+        "people":5,
+        "date":1685491200000,
+        "category":" 중식"
+    },
+    {
+        "department":"보건정책과",
+        "name":"르비엣",
+        "cost":64500,
+        "people":5,
+        "date":1682899200000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"보건정책과",
+        "name":"삼화아구",
+        "cost":64000,
+        "people":3,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건정책과",
+        "name":"수미가",
+        "cost":60000,
+        "people":5,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"세종화백곰탕&냉면새롬",
+        "cost":32000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 한식"
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"과일뜰",
+        "cost":50000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"바우가든",
+        "cost":90000,
+        "people":3,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"홈플러스",
+        "cost":121880,
+        "people":15,
+        "date":1683849600000,
+        "category":" 대형마트 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"행복무지개",
+        "cost":52000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"장터장칼국수",
+        "cost":48000,
+        "people":4,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"샤오원",
+        "cost":31800,
+        "people":3,
+        "date":1684713600000,
+        "category":" 중식"
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"모과나무골막국수이야기",
+        "cost":114500,
+        "people":7,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"명장복집",
+        "cost":44000,
+        "people":3,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"커피공주",
+        "cost":47600,
+        "people":6,
+        "date":1684972800000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"란이",
+        "cost":120000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 중식"
+    },
+    {
+        "department":"보건환경연구원",
+        "name":"커피공주",
+        "cost":50000,
+        "people":6,
+        "date":1685491200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"보람동",
+        "name":"과일장터",
+        "cost":50000,
+        "people":10,
+        "date":1684368000000,
+        "category":"미분류"
+    },
+    {
+        "department":"보람동",
+        "name":"수미가",
+        "cost":400000,
+        "people":20,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"복지정책과",
+        "name":"함흥면옥",
+        "cost":63000,
+        "people":4,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"복지정책과",
+        "name":"육산",
+        "cost":88000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"복지정책과",
+        "name":"제주은희네해장국",
+        "cost":30000,
+        "people":3,
+        "date":1684713600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"복지정책과",
+        "name":"해뜨는집",
+        "cost":119000,
+        "people":7,
+        "date":1684886400000,
+        "category":" 한식"
+    },
+    {
+        "department":"복지정책과",
+        "name":"샤브마니아",
+        "cost":116000,
+        "people":6,
+        "date":1685059200000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"부강면",
+        "name":"원두막매운탕",
+        "cost":95000,
+        "people":8,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"부강면",
+        "name":"송월토속촌",
+        "cost":83000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"부강면",
+        "name":"그린주의",
+        "cost":134000,
+        "people":200,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"부강면",
+        "name":"세종화백곰탕&냉면",
+        "cost":70000,
+        "people":6,
+        "date":1684108800000,
+        "category":" 한식"
+    },
+    {
+        "department":"부강면",
+        "name":"먹거리식당",
+        "cost":87000,
+        "people":6,
+        "date":1684454400000,
+        "category":" 한식"
+    },
+    {
+        "department":"부강면",
+        "name":"순남이네",
+        "cost":44000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식"
+    },
+    {
+        "department":"사회재난과",
+        "name":"조치원1927아트센터",
+        "cost":111400,
+        "people":6,
+        "date":1683072000000,
+        "category":" 문화시설"
+    },
+    {
+        "department":"사회재난과",
+        "name":"궁궐",
+        "cost":77000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식"
+    },
+    {
+        "department":"사회재난과",
+        "name":"조선초밥",
+        "cost":91510,
+        "people":4,
+        "date":1684972800000,
+        "category":" 일식 "
+    },
+    {
+        "department":"산림공원과",
+        "name":"신종로빈대떡",
+        "cost":143000,
+        "people":8,
+        "date":1683763200000,
+        "category":" 한식"
+    },
+    {
+        "department":"산업입지과",
+        "name":"함흥면옥",
+        "cost":120000,
+        "people":6,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"산업입지과",
+        "name":"양평칼국수",
+        "cost":40000,
+        "people":4,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"산업입지과",
+        "name":"싱그레복집",
+        "cost":115000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"산업입지과",
+        "name":"금성매운탕",
+        "cost":59000,
+        "people":4,
+        "date":1684713600000,
+        "category":" 한식"
+    },
+    {
+        "department":"산업입지과",
+        "name":"운주산오리",
+        "cost":80000,
+        "people":4,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"산업입지과",
+        "name":"순남시래기",
+        "cost":27000,
+        "people":3,
+        "date":1684886400000,
+        "category":" 한식"
+    },
+    {
+        "department":"산업입지과",
+        "name":"궁궐",
+        "cost":45000,
+        "people":4,
+        "date":1684972800000,
+        "category":" 한식"
+    },
+    {
+        "department":"산업입지과",
+        "name":"육대장",
+        "cost":87000,
+        "people":8,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"상수도과",
+        "name":"봉서골",
+        "cost":68000,
+        "people":5,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"상수도과",
+        "name":"관저명태촌",
+        "cost":51000,
+        "people":4,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"상수도과",
+        "name":"다인아구찜",
+        "cost":92000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"상수도과",
+        "name":"한솥",
+        "cost":64000,
+        "people":5,
+        "date":1684281600000,
+        "category":" 도시락 "
+    },
+    {
+        "department":"상수도과",
+        "name":"일품국수",
+        "cost":150000,
+        "people":6,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"새롬동",
+        "name":"효미주막",
+        "cost":127500,
+        "people":5,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"새롬동",
+        "name":"샤오원",
+        "cost":64000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 중식"
+    },
+    {
+        "department":"새롬동",
+        "name":"정선산곤드레",
+        "cost":140000,
+        "people":10,
+        "date":1684281600000,
+        "category":" 한식"
+    },
+    {
+        "department":"새롬동",
+        "name":"샤오원",
+        "cost":120000,
+        "people":4,
+        "date":1684281600000,
+        "category":" 중식"
+    },
+    {
+        "department":"새롬동",
+        "name":"샤오원",
+        "cost":59700,
+        "people":4,
+        "date":1684972800000,
+        "category":" 중식"
+    },
+    {
+        "department":"세원관리과",
+        "name":"그릴200도",
+        "cost":81000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"세원관리과",
+        "name":"두툼",
+        "cost":100000,
+        "people":5,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"세종소방서",
+        "name":"바른치킨(도담점)",
+        "cost":150000,
+        "people":18,
+        "date":1683676800000,
+        "category":" 치킨 "
+    },
+    {
+        "department":"세종소방서",
+        "name":"달광",
+        "cost":180000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"세종소방서",
+        "name":"나루스시",
+        "cost":120000,
+        "people":4,
+        "date":1684800000000,
+        "category":" 일식 "
+    },
+    {
+        "department":"세종소방서",
+        "name":"승도리네",
+        "cost":100000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소담동",
+        "name":"관내업체",
+        "cost":185000,
+        "people":8,
+        "date":1683504000000,
+        "category":"미분류"
+    },
+    {
+        "department":"소담동",
+        "name":"관내업체",
+        "cost":80000,
+        "people":6,
+        "date":1683590400000,
+        "category":"미분류"
+    },
+    {
+        "department":"소담동",
+        "name":"관내업체",
+        "cost":112500,
+        "people":25,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"진플라워",
+        "cost":100000,
+        "people":1,
+        "date":1682899200000,
+        "category":" 꽃집,꽃배달"
+    },
+    {
+        "department":"소방본부",
+        "name":"청강촌",
+        "cost":330000,
+        "people":13,
+        "date":1682899200000,
+        "category":" 샤브샤브"
+    },
+    {
+        "department":"소방본부",
+        "name":"그릴200C",
+        "cost":65000,
+        "people":5,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"페이지원비스트로",
+        "cost":295000,
+        "people":15,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"홍가면옥",
+        "cost":60000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"육산",
+        "cost":48000,
+        "people":4,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"진플라워",
+        "cost":100000,
+        "people":1,
+        "date":1683158400000,
+        "category":" 꽃집,꽃배달"
+    },
+    {
+        "department":"소방본부",
+        "name":"그릴200C",
+        "cost":52000,
+        "people":4,
+        "date":1683504000000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"세종복칼국수",
+        "cost":81500,
+        "people":4,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"궁궐",
+        "cost":110000,
+        "people":4,
+        "date":1683676800000,
+        "category":" 한식"
+    },
+    {
+        "department":"소방본부",
+        "name":"홍가면옥",
+        "cost":180000,
+        "people":13,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"소풍키친",
+        "cost":34000,
+        "people":4,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"황우제매운탕",
+        "cost":120000,
+        "people":6,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"항아리보쌈",
+        "cost":150000,
+        "people":6,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"진플라워",
+        "cost":80000,
+        "people":1,
+        "date":1683936000000,
+        "category":" 꽃집,꽃배달"
+    },
+    {
+        "department":"소방본부",
+        "name":"육산",
+        "cost":60000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"유성복집",
+        "cost":114000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"홍가면옥",
+        "cost":42000,
+        "people":3,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"청와삼대",
+        "cost":30000,
+        "people":3,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"소래버섯나라",
+        "cost":465000,
+        "people":16,
+        "date":1684713600000,
+        "category":" 한식"
+    },
+    {
+        "department":"소방본부",
+        "name":"함흥냉면",
+        "cost":54800,
+        "people":4,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"육산",
+        "cost":48000,
+        "people":4,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"소래버섯나라",
+        "cost":158000,
+        "people":7,
+        "date":1684972800000,
+        "category":" 한식"
+    },
+    {
+        "department":"소방본부",
+        "name":"동해바다회",
+        "cost":73000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소방본부",
+        "name":"순남시래기",
+        "cost":60000,
+        "people":5,
+        "date":1685404800000,
+        "category":" 한식"
+    },
+    {
+        "department":"소방본부",
+        "name":"이응갈비",
+        "cost":45000,
+        "people":3,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"소방본부",
+        "name":"콩밭가인",
+        "cost":30000,
+        "people":3,
+        "date":1685491200000,
+        "category":" 한식"
+    },
+    {
+        "department":"소상공인과",
+        "name":"해궁",
+        "cost":64000,
+        "people":4,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소상공인과",
+        "name":"육산",
+        "cost":108000,
+        "people":4,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소상공인과",
+        "name":"포담",
+        "cost":65000,
+        "people":5,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"소상공인과",
+        "name":"영란횟집",
+        "cost":180000,
+        "people":7,
+        "date":1684195200000,
+        "category":"미분류"
+    },
+    {
+        "department":"소정면",
+        "name":"삼색꼬맹이김밥",
+        "cost":47000,
+        "people":13,
+        "date":1682899200000,
+        "category":"미분류"
+    },
+    {
+        "department":"소정면",
+        "name":"양평본가해장국",
+        "cost":54000,
+        "people":6,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"소정면",
+        "name":"오가네",
+        "cost":170000,
+        "people":9,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"소정면",
+        "name":"멕시카나치킨",
+        "cost":58000,
+        "people":8,
+        "date":1683676800000,
+        "category":" 치킨 "
+    },
+    {
+        "department":"소정면",
+        "name":"함지박",
+        "cost":197000,
+        "people":11,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"수도운영과",
+        "name":"영동순대",
+        "cost":47000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"수도운영과",
+        "name":"을화옥",
+        "cost":147500,
+        "people":11,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"수도운영과",
+        "name":"착한낙지",
+        "cost":103700,
+        "people":7,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"수도운영과",
+        "name":"순남시래기",
+        "cost":73300,
+        "people":5,
+        "date":1685491200000,
+        "category":" 한식"
+    },
+    {
+        "department":"시립도서관",
+        "name":"다올차이나",
+        "cost":369000,
+        "people":15,
+        "date":1683763200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"시립도서관",
+        "name":"고슬",
+        "cost":45000,
+        "people":3,
+        "date":1684195200000,
+        "category":" 한식"
+    },
+    {
+        "department":"시립도서관",
+        "name":"세종애기획",
+        "cost":62000,
+        "people":5,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"시민소통과",
+        "name":"텐퍼센트",
+        "cost":80000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"사키",
+        "cost":90000,
+        "people":5,
+        "date":1682985600000,
+        "category":" 일식"
+    },
+    {
+        "department":"시민안전실",
+        "name":"바닐라가든",
+        "cost":19800,
+        "people":6,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"시민안전실",
+        "name":"카페마랑",
+        "cost":23300,
+        "people":5,
+        "date":1683504000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"육산",
+        "cost":180000,
+        "people":10,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"엠카페",
+        "cost":23400,
+        "people":10,
+        "date":1683763200000,
+        "category":" 카페"
+    },
+    {
+        "department":"시민안전실",
+        "name":"해이이투힐",
+        "cost":65800,
+        "people":4,
+        "date":1683849600000,
+        "category":" 카페"
+    },
+    {
+        "department":"시민안전실",
+        "name":"투썸플레이스",
+        "cost":16600,
+        "people":3,
+        "date":1684195200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"클린커피",
+        "cost":17300,
+        "people":4,
+        "date":1684454400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"카페리",
+        "cost":14700,
+        "people":3,
+        "date":1684454400000,
+        "category":" 카페"
+    },
+    {
+        "department":"시민안전실",
+        "name":"차이킹",
+        "cost":209000,
+        "people":7,
+        "date":1684800000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"함흥면옥",
+        "cost":50000,
+        "people":5,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"궁궐",
+        "cost":154000,
+        "people":8,
+        "date":1684972800000,
+        "category":" 한식"
+    },
+    {
+        "department":"시민안전실",
+        "name":"또바기검은콩수제비칼국수",
+        "cost":32000,
+        "people":8,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"클린커피",
+        "cost":36900,
+        "people":8,
+        "date":1685059200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"클린커피",
+        "cost":19400,
+        "people":4,
+        "date":1685404800000,
+        "category":" 카페 "
+    },
+    {
+        "department":"시민안전실",
+        "name":"써밋뷰",
+        "cost":184500,
+        "people":10,
+        "date":1685491200000,
+        "category":" 카페"
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"미식도",
+        "cost":139500,
+        "people":5,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"수구레국밥",
+        "cost":50000,
+        "people":5,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"굴이야기",
+        "cost":40000,
+        "people":4,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"백련화메기탕",
+        "cost":110000,
+        "people":5,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"미식도",
+        "cost":155000,
+        "people":5,
+        "date":1684972800000,
+        "category":" 한식"
+    },
+    {
+        "department":"시설관리사업소",
+        "name":"수미가",
+        "cost":48000,
+        "people":3,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"아동청소년과",
+        "name":"워낭2013",
+        "cost":108000,
+        "people":4,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"아동청소년과",
+        "name":"투파인드피터세종",
+        "cost":145500,
+        "people":7,
+        "date":1682985600000,
+        "category":" 양식 "
+    },
+    {
+        "department":"아동청소년과",
+        "name":"식원",
+        "cost":150000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"아동청소년과",
+        "name":"한아름보리밥",
+        "cost":70000,
+        "people":5,
+        "date":1684108800000,
+        "category":" 한식"
+    },
+    {
+        "department":"아동청소년과",
+        "name":"워낭2013",
+        "cost":92000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"아동청소년과",
+        "name":"카페마랑",
+        "cost":116000,
+        "people":20,
+        "date":1685404800000,
+        "category":" 카페 "
+    },
+    {
+        "department":"아름동",
+        "name":"샤브쌈주머니",
+        "cost":55200,
+        "people":4,
+        "date":1683676800000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"아름동",
+        "name":"쓰촨",
+        "cost":300000,
+        "people":11,
+        "date":1683763200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"아름동",
+        "name":"뻥튀기공작소",
+        "cost":77300,
+        "people":15,
+        "date":1684108800000,
+        "category":" 식품판매"
+    },
+    {
+        "department":"아름동",
+        "name":"세이로정",
+        "cost":42000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 술집 "
+    },
+    {
+        "department":"아름동",
+        "name":"원스타",
+        "cost":81700,
+        "people":15,
+        "date":1684281600000,
+        "category":" 카페"
+    },
+    {
+        "department":"아름동",
+        "name":"송가네송탄부대찌개",
+        "cost":26000,
+        "people":2,
+        "date":1684368000000,
+        "category":"미분류"
+    },
+    {
+        "department":"아름동",
+        "name":"한식대첩이우철누룽지삼계탕",
+        "cost":51000,
+        "people":5,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"안전정책과",
+        "name":"윤용현의도끼농장",
+        "cost":329000,
+        "people":12,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"안전정책과",
+        "name":"분당만강원",
+        "cost":161000,
+        "people":8,
+        "date":1685059200000,
+        "category":" 중식"
+    },
+    {
+        "department":"어진동",
+        "name":"관내상점",
+        "cost":70000,
+        "people":30,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"어진동",
+        "name":"관내상점",
+        "cost":67000,
+        "people":7,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"어진동",
+        "name":"관내상점",
+        "cost":145000,
+        "people":10,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"여성가족과",
+        "name":"사키",
+        "cost":108000,
+        "people":6,
+        "date":1684281600000,
+        "category":" 일식"
+    },
+    {
+        "department":"여성가족과",
+        "name":"길현식탁",
+        "cost":90000,
+        "people":10,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"여성가족과",
+        "name":"카페루트오",
+        "cost":33000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 카페"
+    },
+    {
+        "department":"연기면",
+        "name":"제산한방오리",
+        "cost":328000,
+        "people":26,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"연기면",
+        "name":"금단양만",
+        "cost":96000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"연기면",
+        "name":"스타벅스코리아",
+        "cost":58400,
+        "people":10,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"연기면",
+        "name":"주문리동치지막국수",
+        "cost":186000,
+        "people":20,
+        "date":1684195200000,
+        "category":"미분류"
+    },
+    {
+        "department":"연기면",
+        "name":"제산한방오리",
+        "cost":165000,
+        "people":8,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"연기면",
+        "name":"주연불교",
+        "cost":100000,
+        "people":4,
+        "date":1684886400000,
+        "category":" 종교 "
+    },
+    {
+        "department":"연동면",
+        "name":"㈜신화케이푸트",
+        "cost":286000,
+        "people":15,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"연서면",
+        "name":"천지연가든",
+        "cost":99000,
+        "people":11,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"연서면",
+        "name":"대왕해물손칼국수",
+        "cost":42000,
+        "people":3,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"연서면",
+        "name":"천지연가든",
+        "cost":58000,
+        "people":5,
+        "date":1683849600000,
+        "category":" 한식"
+    },
+    {
+        "department":"연서면",
+        "name":"복사골",
+        "cost":177000,
+        "people":12,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"연서면",
+        "name":"구판장식당",
+        "cost":355000,
+        "people":40,
+        "date":1684281600000,
+        "category":"음식점"
+    },
+    {
+        "department":"연서면",
+        "name":"조치원농협하나로마트",
+        "cost":26760,
+        "people":10,
+        "date":1684627200000,
+        "category":" 슈퍼마켓 "
+    },
+    {
+        "department":"예산담당관",
+        "name":"청와삼대(족발보쌈칼국수)",
+        "cost":67000,
+        "people":3,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"예산담당관",
+        "name":"군산해물천국",
+        "cost":140000,
+        "people":7,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"예산담당관",
+        "name":"서가앤쿡",
+        "cost":69800,
+        "people":5,
+        "date":1684800000000,
+        "category":" 양식 "
+    },
+    {
+        "department":"예산담당관",
+        "name":"신칼국수",
+        "cost":57000,
+        "people":5,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"예산담당관",
+        "name":"산촌",
+        "cost":75000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"예산담당관",
+        "name":"은주식당",
+        "cost":76000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식"
+    },
+    {
+        "department":"예산담당관",
+        "name":"석곡오리촌",
+        "cost":138000,
+        "people":6,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"호두네",
+        "cost":95000,
+        "people":20,
+        "date":1682899200000,
+        "category":" 간식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"오롯이",
+        "cost":48000,
+        "people":20,
+        "date":1682899200000,
+        "category":" 일식"
+    },
+    {
+        "department":"운영지원과",
+        "name":"어썸초밥",
+        "cost":48000,
+        "people":3,
+        "date":1682899200000,
+        "category":" 일식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"주식회사육산",
+        "cost":120100,
+        "people":9,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"운영지원과",
+        "name":"안터반점",
+        "cost":82000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"자장자장",
+        "cost":86000,
+        "people":4,
+        "date":1683763200000,
+        "category":" 중식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"차득순손칼국수",
+        "cost":90000,
+        "people":7,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"해밀",
+        "cost":100000,
+        "people":5,
+        "date":1684195200000,
+        "category":" 관광,명소 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"보돌미역국",
+        "cost":71000,
+        "people":5,
+        "date":1684368000000,
+        "category":" 한식"
+    },
+    {
+        "department":"운영지원과",
+        "name":"중화반점",
+        "cost":147000,
+        "people":7,
+        "date":1684800000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"하우프(HOWFF)",
+        "cost":23300,
+        "people":6,
+        "date":1685059200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"운영지원과",
+        "name":"이응갈비",
+        "cost":75000,
+        "people":6,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"두툼",
+        "cost":80000,
+        "people":8,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"주식회사명품한우",
+        "cost":212000,
+        "people":8,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"신화정",
+        "cost":120000,
+        "people":4,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"경양식당",
+        "cost":31500,
+        "people":3,
+        "date":1683072000000,
+        "category":" 양식"
+    },
+    {
+        "department":"의회사무처",
+        "name":"지리산식당",
+        "cost":55000,
+        "people":4,
+        "date":1683158400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"장독대정원카페",
+        "cost":129500,
+        "people":29,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"만찬수산",
+        "cost":74000,
+        "people":4,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"화야",
+        "cost":210000,
+        "people":8,
+        "date":1683158400000,
+        "category":" 일식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"오롯이",
+        "cost":48000,
+        "people":3,
+        "date":1683158400000,
+        "category":" 일식"
+    },
+    {
+        "department":"의회사무처",
+        "name":"초가집갈비김치찌개",
+        "cost":24000,
+        "people":2,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"신미정춘천닭갈비",
+        "cost":49600,
+        "people":4,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"엔제리너스",
+        "cost":35600,
+        "people":2,
+        "date":1683590400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"고스란",
+        "cost":54600,
+        "people":7,
+        "date":1683676800000,
+        "category":" 한식"
+    },
+    {
+        "department":"의회사무처",
+        "name":"오롯이",
+        "cost":62400,
+        "people":3,
+        "date":1683676800000,
+        "category":" 일식"
+    },
+    {
+        "department":"의회사무처",
+        "name":"엄마손두부",
+        "cost":224000,
+        "people":8,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"그릴200℃",
+        "cost":199000,
+        "people":9,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"세종애기획",
+        "cost":20000,
+        "people":4,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"앤카페",
+        "cost":18000,
+        "people":4,
+        "date":1683936000000,
+        "category":" 카페"
+    },
+    {
+        "department":"의회사무처",
+        "name":"칠돈가유수암점",
+        "cost":209000,
+        "people":10,
+        "date":1684022400000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"민경이네어등포해녀촌",
+        "cost":105000,
+        "people":8,
+        "date":1684022400000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"엉덩물횟집",
+        "cost":270000,
+        "people":9,
+        "date":1684022400000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"보강집",
+        "cost":38000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"이차돌",
+        "cost":109500,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"드롭탑",
+        "cost":290500,
+        "people":10,
+        "date":1684368000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"이차돌",
+        "cost":80900,
+        "people":3,
+        "date":1684713600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"그릴200℃",
+        "cost":146500,
+        "people":5,
+        "date":1684800000000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"밀마루",
+        "cost":44000,
+        "people":4,
+        "date":1684886400000,
+        "category":" 관광,명소 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"워낭2013",
+        "cost":60000,
+        "people":3,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"주식회사풍미에프앤씨",
+        "cost":144000,
+        "people":5,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"의회사무처",
+        "name":"사키",
+        "cost":108000,
+        "people":6,
+        "date":1685404800000,
+        "category":" 일식"
+    },
+    {
+        "department":"의회사무처",
+        "name":"부촌쭈꾸미",
+        "cost":30000,
+        "people":2,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"의회사무처",
+        "name":"밀마루",
+        "cost":44000,
+        "people":4,
+        "date":1685491200000,
+        "category":" 관광,명소 "
+    },
+    {
+        "department":"자연재난과",
+        "name":"부뚜막",
+        "cost":33000,
+        "people":4,
+        "date":1682985600000,
+        "category":" 한식"
+    },
+    {
+        "department":"자연재난과",
+        "name":"경양식당",
+        "cost":52000,
+        "people":4,
+        "date":1683936000000,
+        "category":" 양식"
+    },
+    {
+        "department":"자연재난과",
+        "name":"영동순대",
+        "cost":44000,
+        "people":3,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자연재난과",
+        "name":"L마트",
+        "cost":199000,
+        "people":110,
+        "date":1684195200000,
+        "category":" 슈퍼마켓"
+    },
+    {
+        "department":"자연재난과",
+        "name":"차득순손칼국수",
+        "cost":66000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자연재난과",
+        "name":"미미삼겹살",
+        "cost":85000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자연재난과",
+        "name":"이비가짬뽕",
+        "cost":40000,
+        "people":3,
+        "date":1684800000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"자원순환과",
+        "name":"항아리보쌈",
+        "cost":84000,
+        "people":5,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자원순환과",
+        "name":"리틀그레이프",
+        "cost":30500,
+        "people":5,
+        "date":1683158400000,
+        "category":" 카페"
+    },
+    {
+        "department":"자원순환과",
+        "name":"커피향",
+        "cost":32500,
+        "people":6,
+        "date":1683590400000,
+        "category":" 카페"
+    },
+    {
+        "department":"자원순환과",
+        "name":"본가왕뼈감자탕",
+        "cost":40000,
+        "people":4,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자원순환과",
+        "name":"카페인스타",
+        "cost":18000,
+        "people":6,
+        "date":1684713600000,
+        "category":"미분류"
+    },
+    {
+        "department":"자원순환과",
+        "name":"행복무지개",
+        "cost":78000,
+        "people":5,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"글린정원",
+        "cost":431600,
+        "people":15,
+        "date":1682985600000,
+        "category":" 양식 "
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"꿈앤카페",
+        "cost":9500,
+        "people":3,
+        "date":1683072000000,
+        "category":" 카페"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"콩대박",
+        "cost":160000,
+        "people":8,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"드로와유(DROWAU)",
+        "cost":41400,
+        "people":5,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"르비프(LeBeef)",
+        "cost":120000,
+        "people":5,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"동방명주",
+        "cost":46000,
+        "people":5,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"옷고시소담점",
+        "cost":23000,
+        "people":10,
+        "date":1683849600000,
+        "category":" 카페 "
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"궁궐",
+        "cost":151000,
+        "people":10,
+        "date":1684195200000,
+        "category":" 한식"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"신종로빈대떡",
+        "cost":79000,
+        "people":15,
+        "date":1684454400000,
+        "category":" 한식"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"부산역",
+        "cost":9200,
+        "people":3,
+        "date":1684972800000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"스타벅스",
+        "cost":24100,
+        "people":6,
+        "date":1685059200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"자치경찰위원회",
+        "name":"콩대박",
+        "cost":80000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식"
+    },
+    {
+        "department":"자치행정과",
+        "name":"차득순손칼국수",
+        "cost":42000,
+        "people":5,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자치행정과",
+        "name":"커피공주",
+        "cost":80700,
+        "people":4,
+        "date":1684800000000,
+        "category":" 카페 "
+    },
+    {
+        "department":"자치행정과",
+        "name":"배부장찌개도담점",
+        "cost":43500,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자치행정과",
+        "name":"샤오원",
+        "cost":100000,
+        "people":4,
+        "date":1685491200000,
+        "category":" 중식"
+    },
+    {
+        "department":"자치행정국",
+        "name":"다이닝더인드라",
+        "cost":188000,
+        "people":7,
+        "date":1683072000000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"자치행정국",
+        "name":"케이앤씨(K&C)푸드컴퍼니",
+        "cost":73000,
+        "people":4,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치행정국",
+        "name":"함흥면옥",
+        "cost":100000,
+        "people":7,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"자치행정국",
+        "name":"주식회사육산",
+        "cost":144000,
+        "people":8,
+        "date":1684368000000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치행정국",
+        "name":"콩밭가인",
+        "cost":106000,
+        "people":4,
+        "date":1684713600000,
+        "category":" 한식"
+    },
+    {
+        "department":"자치행정국",
+        "name":"신화케이푸드",
+        "cost":305900,
+        "people":11,
+        "date":1684713600000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치행정국",
+        "name":"부의금",
+        "cost":50000,
+        "people":1,
+        "date":1684886400000,
+        "category":"미분류"
+    },
+    {
+        "department":"자치행정국",
+        "name":"가장맛있는족발",
+        "cost":164000,
+        "people":6,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"장군면",
+        "name":"장군실내포차",
+        "cost":114000,
+        "people":6,
+        "date":1684108800000,
+        "category":" 술집 "
+    },
+    {
+        "department":"장군면",
+        "name":"착한낙지",
+        "cost":39000,
+        "people":3,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"장군면",
+        "name":"장군칼국수",
+        "cost":120500,
+        "people":8,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"장군면",
+        "name":"백마호프",
+        "cost":100000,
+        "people":5,
+        "date":1684368000000,
+        "category":" 술집 "
+    },
+    {
+        "department":"장군면",
+        "name":"장기순대",
+        "cost":48000,
+        "people":4,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"장군면",
+        "name":"군산조개천국",
+        "cost":183000,
+        "people":8,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"장군면",
+        "name":"해밀",
+        "cost":69000,
+        "people":4,
+        "date":1684886400000,
+        "category":" 관광,명소 "
+    },
+    {
+        "department":"장군면",
+        "name":"금강불교사",
+        "cost":135000,
+        "people":3,
+        "date":1684886400000,
+        "category":"미분류"
+    },
+    {
+        "department":"장군면",
+        "name":"면장님",
+        "cost":47000,
+        "people":5,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"안동국밥",
+        "cost":99000,
+        "people":6,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"황바우숯불갈비",
+        "cost":135000,
+        "people":8,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"행복순대",
+        "cost":150000,
+        "people":5,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"전동남원추어탕",
+        "cost":55000,
+        "people":5,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"풍미정",
+        "cost":82200,
+        "people":3,
+        "date":1684281600000,
+        "category":"미분류"
+    },
+    {
+        "department":"전동면",
+        "name":"양촌식당",
+        "cost":81000,
+        "people":6,
+        "date":1684713600000,
+        "category":" 기사식당"
+    },
+    {
+        "department":"전동면",
+        "name":"드롭탑",
+        "cost":14000,
+        "people":3,
+        "date":1684886400000,
+        "category":" 카페 "
+    },
+    {
+        "department":"전동면",
+        "name":"둥구나무식당",
+        "cost":72000,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"즐거운집",
+        "cost":48000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전동면",
+        "name":"미스사이공",
+        "cost":27800,
+        "people":3,
+        "date":1685491200000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"금강추어탕",
+        "cost":33000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"금강추어탕",
+        "cost":21000,
+        "people":3,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"다워라",
+        "cost":50500,
+        "people":4,
+        "date":1683590400000,
+        "category":" 카페"
+    },
+    {
+        "department":"전략기획과",
+        "name":"스시안",
+        "cost":122500,
+        "people":6,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"전략기획과",
+        "name":"꿈앤카페",
+        "cost":12500,
+        "people":5,
+        "date":1684195200000,
+        "category":" 카페"
+    },
+    {
+        "department":"전략기획과",
+        "name":"북촌",
+        "cost":129000,
+        "people":6,
+        "date":1684281600000,
+        "category":" 분식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"따규",
+        "cost":120000,
+        "people":5,
+        "date":1684368000000,
+        "category":" 중식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"워낭2013",
+        "cost":120000,
+        "people":6,
+        "date":1684454400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"르비엣",
+        "cost":55000,
+        "people":4,
+        "date":1684800000000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"봉산옥",
+        "cost":57000,
+        "people":4,
+        "date":1684972800000,
+        "category":"미분류"
+    },
+    {
+        "department":"전략기획과",
+        "name":"코다리밥상",
+        "cost":60000,
+        "people":4,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전략기획과",
+        "name":"연남솥밥",
+        "cost":56000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 한식"
+    },
+    {
+        "department":"전의면",
+        "name":"함박골",
+        "cost":277000,
+        "people":18,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"전의면",
+        "name":"미락",
+        "cost":46000,
+        "people":5,
+        "date":1684800000000,
+        "category":" 한식"
+    },
+    {
+        "department":"전의면",
+        "name":"구워볼까볶아볼까",
+        "cost":50000,
+        "people":5,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정보통계담당관",
+        "name":"한양고깃집",
+        "cost":250000,
+        "people":10,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정보통계담당관",
+        "name":"엉클생고기",
+        "cost":120500,
+        "people":10,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정원도시추진단",
+        "name":"세종삼계탕",
+        "cost":117000,
+        "people":10,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정원도시추진단",
+        "name":"내토왕코다리",
+        "cost":54000,
+        "people":8,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정책기획관",
+        "name":"달구지막창",
+        "cost":123000,
+        "people":5,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"정책기획관",
+        "name":"연남솥밥",
+        "cost":78000,
+        "people":5,
+        "date":1683763200000,
+        "category":" 한식"
+    },
+    {
+        "department":"정책기획관",
+        "name":"화로양갈비",
+        "cost":154000,
+        "people":6,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"조치원소방서",
+        "name":"원두막",
+        "cost":111000,
+        "people":7,
+        "date":1683072000000,
+        "category":" 한식"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"삼성반점",
+        "cost":90000,
+        "people":12,
+        "date":1683590400000,
+        "category":" 중식 "
+    },
+    {
+        "department":"조치원소방서",
+        "name":"관내식당",
+        "cost":96000,
+        "people":6,
+        "date":1683763200000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"관내식당",
+        "cost":57000,
+        "people":6,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"관내식당",
+        "cost":42000,
+        "people":4,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"관내식당",
+        "cost":48000,
+        "people":6,
+        "date":1684195200000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"샤브마니아",
+        "cost":180100,
+        "people":9,
+        "date":1684800000000,
+        "category":" 샤브샤브 "
+    },
+    {
+        "department":"조치원소방서",
+        "name":"관내식당",
+        "cost":178000,
+        "people":8,
+        "date":1684886400000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원소방서",
+        "name":"오월식당",
+        "cost":90000,
+        "people":7,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(관저명태촌)",
+        "cost":52000,
+        "people":4,
+        "date":1682985600000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(흐름)",
+        "cost":247500,
+        "people":60,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(고가네갈비와냉면)",
+        "cost":58000,
+        "people":7,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(행복마트)",
+        "cost":100000,
+        "people":7,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(금성한우)",
+        "cost":96000,
+        "people":8,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(본가왕뼈감자탕)",
+        "cost":65000,
+        "people":6,
+        "date":1684886400000,
+        "category":"미분류"
+    },
+    {
+        "department":"조치원읍",
+        "name":"관내식당(행복무지개)",
+        "cost":143000,
+        "people":11,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"종촌동",
+        "name":"보글보글찌게",
+        "cost":154000,
+        "people":14,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"종촌동",
+        "name":"달빛가득카페",
+        "cost":16000,
+        "people":5,
+        "date":1683244800000,
+        "category":" 카페"
+    },
+    {
+        "department":"종촌동",
+        "name":"보글보글찌게",
+        "cost":173500,
+        "people":14,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"종촌동",
+        "name":"바이젠하우스",
+        "cost":63000,
+        "people":4,
+        "date":1684540800000,
+        "category":" 술집 "
+    },
+    {
+        "department":"종촌동",
+        "name":"좋은아침페이스트리",
+        "cost":31500,
+        "people":10,
+        "date":1684972800000,
+        "category":" 간식 "
+    },
+    {
+        "department":"주택과",
+        "name":"세종장어대가",
+        "cost":64000,
+        "people":5,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"주택과",
+        "name":"형제회",
+        "cost":63500,
+        "people":4,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"주택과",
+        "name":"항아리보쌈",
+        "cost":55000,
+        "people":5,
+        "date":1684713600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"지능형도시과",
+        "name":"탄영",
+        "cost":224750,
+        "people":10,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"지능형도시과",
+        "name":"쇼군참치&초밥전문점",
+        "cost":84000,
+        "people":3,
+        "date":1684972800000,
+        "category":" 일식 "
+    },
+    {
+        "department":"지능형도시과",
+        "name":"쇼군참치&초밥전문점",
+        "cost":112000,
+        "people":4,
+        "date":1685404800000,
+        "category":" 일식 "
+    },
+    {
+        "department":"지역균형발전과",
+        "name":"성심슈퍼",
+        "cost":14400,
+        "people":5,
+        "date":1684195200000,
+        "category":" 식품"
+    },
+    {
+        "department":"지역균형발전과",
+        "name":"산장가든",
+        "cost":243000,
+        "people":10,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"지역균형발전과",
+        "name":"봉암2리사회적협동조합\n(봉황카페)",
+        "cost":23000,
+        "people":6,
+        "date":1685059200000,
+        "category":"미분류"
+    },
+    {
+        "department":"지역균형발전과",
+        "name":"청자장카페오늘",
+        "cost":40300,
+        "people":8,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"세종축산",
+        "cost":203000,
+        "people":7,
+        "date":1682899200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"초담골",
+        "cost":91000,
+        "people":3,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"이화수",
+        "cost":98000,
+        "people":8,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"행복무지개",
+        "cost":244500,
+        "people":15,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"이화수",
+        "cost":70000,
+        "people":7,
+        "date":1684281600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"한마음정육식당",
+        "cost":113500,
+        "people":6,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"차량등록사업소",
+        "name":"양우명가화로구이",
+        "cost":123000,
+        "people":4,
+        "date":1685491200000,
+        "category":" 한식"
+    },
+    {
+        "department":"청년정책담당관",
+        "name":"순남시래기",
+        "cost":55000,
+        "people":5,
+        "date":1682899200000,
+        "category":" 한식"
+    },
+    {
+        "department":"청년정책담당관",
+        "name":"초가집",
+        "cost":36000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 식품판매 "
+    },
+    {
+        "department":"청년정책담당관",
+        "name":"오롯이",
+        "cost":48000,
+        "people":4,
+        "date":1684281600000,
+        "category":" 일식"
+    },
+    {
+        "department":"청년정책담당관",
+        "name":"초가집",
+        "cost":56000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 식품판매 "
+    },
+    {
+        "department":"체육진흥과",
+        "name":"란이(도담점)",
+        "cost":210000,
+        "people":8,
+        "date":1683849600000,
+        "category":"미분류"
+    },
+    {
+        "department":"체육진흥과",
+        "name":"꼬기한점",
+        "cost":450000,
+        "people":15,
+        "date":1683936000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"재너머",
+        "cost":70000,
+        "people":5,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"강릉엄지네포장마차",
+        "cost":57000,
+        "people":4,
+        "date":1683504000000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"돈수라",
+        "cost":67000,
+        "people":6,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"미식도",
+        "cost":182000,
+        "people":8,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"화로양갈비",
+        "cost":241000,
+        "people":10,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"석곡오리촌",
+        "cost":134000,
+        "people":6,
+        "date":1683763200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"에이트",
+        "cost":124000,
+        "people":5,
+        "date":1683763200000,
+        "category":" 양식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"한우투뿔",
+        "cost":150000,
+        "people":8,
+        "date":1684108800000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"강릉엄지네포장마차",
+        "cost":115000,
+        "people":6,
+        "date":1684195200000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"60계치킨",
+        "cost":88800,
+        "people":4,
+        "date":1684368000000,
+        "category":" 치킨 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"화로양갈비",
+        "cost":188000,
+        "people":10,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"육사부",
+        "cost":238000,
+        "people":10,
+        "date":1684886400000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"앤비스트로",
+        "cost":76600,
+        "people":4,
+        "date":1684972800000,
+        "category":" 양식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"부산면관",
+        "cost":147000,
+        "people":6,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"티라미수",
+        "cost":45200,
+        "people":6,
+        "date":1682899200000,
+        "category":" 카페 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"밥상차려주는집",
+        "cost":380000,
+        "people":20,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"송도갈비",
+        "cost":350000,
+        "people":14,
+        "date":1683676800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"꿈앤카페",
+        "cost":100000,
+        "people":20,
+        "date":1683676800000,
+        "category":" 카페"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"밥상차려주는집",
+        "cost":342000,
+        "people":18,
+        "date":1683763200000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"진참치",
+        "cost":215000,
+        "people":12,
+        "date":1683763200000,
+        "category":" 일식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"탄방골참순대",
+        "cost":43000,
+        "people":4,
+        "date":1684195200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"돔베초밥",
+        "cost":71400,
+        "people":6,
+        "date":1684281600000,
+        "category":" 일식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"송도갈비",
+        "cost":350000,
+        "people":14,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"송도갈비",
+        "cost":100000,
+        "people":4,
+        "date":1684108800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"송도갈비",
+        "cost":198000,
+        "people":10,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"멍게가",
+        "cost":224000,
+        "people":10,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"오로지생태한마리",
+        "cost":56000,
+        "people":4,
+        "date":1683158400000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"눈꽃대패",
+        "cost":70800,
+        "people":6,
+        "date":1683590400000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"마키노차야세종더가우",
+        "cost":90000,
+        "people":4,
+        "date":1683676800000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"함흥면옥",
+        "cost":40000,
+        "people":4,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"밥상차려주는집",
+        "cost":57000,
+        "people":3,
+        "date":1684281600000,
+        "category":" 한식"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"오로지생태한마리",
+        "cost":22000,
+        "people":2,
+        "date":1684713600000,
+        "category":"미분류"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"부산면관",
+        "cost":105900,
+        "people":6,
+        "date":1684800000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"떼구르",
+        "cost":200000,
+        "people":50,
+        "date":1684800000000,
+        "category":" 카페"
+    },
+    {
+        "department":"충청권특자체사무국",
+        "name":"밥상차려주는집",
+        "cost":76000,
+        "people":4,
+        "date":1685059200000,
+        "category":" 한식"
+    },
+    {
+        "department":"토지정보과",
+        "name":"금빈회관",
+        "cost":106000,
+        "people":6,
+        "date":1683072000000,
+        "category":"미분류"
+    },
+    {
+        "department":"토지정보과",
+        "name":"다이닝더인드라",
+        "cost":65000,
+        "people":4,
+        "date":1684454400000,
+        "category":" 아시아음식 "
+    },
+    {
+        "department":"토지정보과",
+        "name":"경주집",
+        "cost":46500,
+        "people":3,
+        "date":1685059200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"투자유치단",
+        "name":"세종일식",
+        "cost":125000,
+        "people":5,
+        "date":1682985600000,
+        "category":" 일식"
+    },
+    {
+        "department":"투자유치단",
+        "name":"또바기검은콩수제비.칼국수",
+        "cost":45000,
+        "people":6,
+        "date":1685404800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"투자유치단",
+        "name":"시청대회의실(공간기획)",
+        "cost":480000,
+        "people":30,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"하수도과",
+        "name":"모시울",
+        "cost":18500,
+        "people":3,
+        "date":1683072000000,
+        "category":" 카페"
+    },
+    {
+        "department":"하수도과",
+        "name":"청향일식",
+        "cost":389000,
+        "people":16,
+        "date":1684800000000,
+        "category":" 일식 "
+    },
+    {
+        "department":"한솔동",
+        "name":"조개언니회오빠",
+        "cost":107000,
+        "people":5,
+        "date":1683504000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"한솔동",
+        "name":"쇼군참치&초밥전문점",
+        "cost":69000,
+        "people":3,
+        "date":1683849600000,
+        "category":" 일식 "
+    },
+    {
+        "department":"해밀동",
+        "name":"란이",
+        "cost":132000,
+        "people":5,
+        "date":1684368000000,
+        "category":" 중식"
+    },
+    {
+        "department":"해밀동",
+        "name":"이우철누룽지삼계탕",
+        "cost":170000,
+        "people":10,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"해밀동",
+        "name":"순천만꼬막정식",
+        "cost":389000,
+        "people":16,
+        "date":1684454400000,
+        "category":"미분류"
+    },
+    {
+        "department":"환경녹지국",
+        "name":"본죽비빔밥",
+        "cost":145000,
+        "people":6,
+        "date":1682899200000,
+        "category":" 퓨전요리 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"곤드레말",
+        "cost":33000,
+        "people":3,
+        "date":1682985600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"백련화메기탕",
+        "cost":100000,
+        "people":8,
+        "date":1683072000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"궁궐",
+        "cost":77000,
+        "people":7,
+        "date":1683504000000,
+        "category":" 한식"
+    },
+    {
+        "department":"환경녹지국",
+        "name":"궁궐",
+        "cost":143500,
+        "people":8,
+        "date":1683590400000,
+        "category":" 한식"
+    },
+    {
+        "department":"환경녹지국",
+        "name":"내토왕코다리",
+        "cost":74900,
+        "people":7,
+        "date":1683849600000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"궁궐",
+        "cost":245200,
+        "people":7,
+        "date":1684108800000,
+        "category":" 한식"
+    },
+    {
+        "department":"환경녹지국",
+        "name":"본도시락",
+        "cost":272100,
+        "people":13,
+        "date":1684281600000,
+        "category":" 도시락 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"홍가네생태",
+        "cost":32000,
+        "people":4,
+        "date":1684368000000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"초가집김치찌개",
+        "cost":176000,
+        "people":16,
+        "date":1684972800000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경녹지국",
+        "name":"바우가든",
+        "cost":120000,
+        "people":6,
+        "date":1685491200000,
+        "category":"미분류"
+    },
+    {
+        "department":"환경녹지국",
+        "name":"수미가찌개전문점",
+        "cost":216000,
+        "people":18,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경정책과",
+        "name":"우나기칸",
+        "cost":136000,
+        "people":6,
+        "date":1682985600000,
+        "category":" 일식 "
+    },
+    {
+        "department":"환경정책과",
+        "name":"우리홍콩딤섬",
+        "cost":34000,
+        "people":3,
+        "date":1684713600000,
+        "category":" 중식 "
+    },
+    {
+        "department":"환경정책과",
+        "name":"용댕이매운탕",
+        "cost":118000,
+        "people":8,
+        "date":1684886400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"환경정책과",
+        "name":"석곡오리촌",
+        "cost":150000,
+        "people":12,
+        "date":1685491200000,
+        "category":" 한식 "
+    },
+    {
+        "department":"회계과",
+        "name":"환이네갈비살",
+        "cost":42000,
+        "people":4,
+        "date":1683590400000,
+        "category":" 한식 "
+    },
+    {
+        "department":"회계과",
+        "name":"우나기칸",
+        "cost":210000,
+        "people":7,
+        "date":1685059200000,
+        "category":" 일식 "
+    }
+]
